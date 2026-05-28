@@ -10,3 +10,14 @@
 | **[Freeze & Recovery CoP](ca://s?q=Explain_freeze_and_recovery)** | Fault containment and restoration | Preserves invariants under stress |
 | **[Cluster Symmetry CoP](ca://s?q=Explain_cluster_symmetry)** | Architecture‑neutral execution | Eliminates bias and divergence |
 | **[Immutable Genesis CoP](ca://s?q=Explain_genesis_event_injector)** | Origin and constitutional seed | Defines the substrate’s birth condition |
+
+Unified CoP Operation
+When all CoPs are active:
+
+The substrate becomes a constitutional field — a self‑validating deterministic manifold.
+
+Each CoP acts as a governance node, maintaining its invariants and broadcasting canonical state.
+
+The Ross‑OS ecosystem (CopWan, Trinity, Everlight) synchronises through these CoPs rather than direct mutation.
+
+The entire system achieves constitutional coherence — every layer aware of every invariant.
