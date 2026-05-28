@@ -1,5 +1,49 @@
 MIT License
+MIT License — Ross‑OS Constitutional Substrate
+This project is licensed under the MIT License, a permissive open‑source license that allows:
 
+commercial use
+
+modification
+
+distribution
+
+private use
+
+…provided that the copyright notice and permission notice are included in all copies or substantial portions of the software.
+
+The MIT License is intentionally simple and compatible with deterministic, constitutional, and governance‑driven systems like the ROSS‑OS substrate.
+
+For details on what the MIT License allows and requires, see:
+MIT License Overview
+
+To apply this license to your own contributions, follow the guidelines in:
+CONTRIBUTING.md
+
+Ross‑OS Licensing Model
+The ROSS‑OS Constitutional Substrate uses MIT because:
+
+it preserves architectural openness
+
+it allows broad adoption
+
+it supports commercial and non‑commercial use
+
+it avoids restrictive copyleft entanglements
+
+it aligns with the substrate’s deterministic, modular design
+
+Higher‑level Ross‑OS components (e.g., CopWan Ledger Physics, Trinity Prism, Everlight 24) may use additional licensing layers, but the substrate itself remains MIT to ensure maximum interoperability.
+
+For guidance on multi‑layer licensing across the Ross‑OS ecosystem, see:
+Ross‑OS Licensing Strategy
+
+Attribution
+When redistributing or modifying this project, include:
+
+Code
+Copyright (c) 2026 Colin Ross Downie
+Licensed under the MIT License.
 Copyright (c) 2026 Colin Downie 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
