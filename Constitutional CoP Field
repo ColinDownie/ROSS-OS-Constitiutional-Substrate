@@ -1,0 +1,12 @@
+| **CoP Name** | **Core Function** | **Constitutional Role** |
+| --- | --- | --- |
+| **[Referential Determinism](ca://s?q=Explain_referential_determinism)** | Pure mapping, no hidden state | Guarantees identical execution |
+| **[Canonicalization CoP](ca://s?q=Explain_canonicalization_engine)** | Byte‑equivalence and encoding discipline | Prevents drift across systems |
+| **[Cryptographic Hash CoP](ca://s?q=Explain_cryptographic_hash_model)** | Root‑of‑trust and immutability | Anchors all lineage |
+| **[Lineage CoP](ca://s?q=Explain_lineage_engine)** | Ordered constitutional history | Enables replay and audit |
+| **[Governed Rewrite CoP](ca://s?q=Explain_rewrite_and_diff_system)** | Safe evolution under governance | Allows constitutional amendment |
+| **[Convergence CoP](ca://s?q=Explain_convergence_and_symmetry)** | Cluster symmetry enforcement | Maintains global consistency |
+| **[Replay Equivalence CoP](ca://s?q=Explain_replay_safety)** | Reconstructive validation | Confirms deterministic truth |
+| **[Freeze & Recovery CoP](ca://s?q=Explain_freeze_and_recovery)** | Fault containment and restoration | Preserves invariants under stress |
+| **[Cluster Symmetry CoP](ca://s?q=Explain_cluster_symmetry)** | Architecture‑neutral execution | Eliminates bias and divergence |
+| **[Immutable Genesis CoP](ca://s?q=Explain_genesis_event_injector)** | Origin and constitutional seed | Defines the substrate’s birth condition |
